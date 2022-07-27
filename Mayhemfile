@@ -1,5 +1,5 @@
-project: rnshah9/h264bsd
+project: h264bsd
 target: test-h264bsd
 
 cmds:
-  - cmd: /repo/posix/bin/test_h264bsd @@
+  - cmd: /test_h264bsd @@
